@@ -11,6 +11,7 @@ import java.lang.annotation.Target;
 @Retention(RetentionPolicy.RUNTIME)
 @Constraint(validatedBy = CheckEmailValidator.class)
 public @interface CheckEmail {
+
     public String value() default "xyz.com";
     public String message() default "*incorrect email";
 

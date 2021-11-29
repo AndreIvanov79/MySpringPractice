@@ -30,6 +30,7 @@ public class Employee {
     @Pattern(regexp = "\\d{3}-\\d{2}-\\d{2}", message = "*incorrect pattern")
     private String phoneNumber;
 
+
     public Employee() {
         departments=new HashMap<>();
         departments.put("Information Technologies", "IT");
