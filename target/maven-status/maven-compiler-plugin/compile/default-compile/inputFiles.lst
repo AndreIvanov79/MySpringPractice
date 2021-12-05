@@ -1,2 +1,7 @@
-C:\Users\aivanov1\IdeaProjects\MySpringMVC\src\main\java\com\spring\mvc\MyController.java
-C:\Users\aivanov1\IdeaProjects\MySpringMVC\src\main\java\com\spring\mvc\Employee.java
+C:\Users\aivanov1\IdeaProjects\MySpringMVC\src\main\java\com\spring\hibernate\aspect\MyLoggingAspect.java
+C:\Users\aivanov1\IdeaProjects\MySpringMVC\src\main\java\com\spring\hibernate\dao\EmployeeDAO.java
+C:\Users\aivanov1\IdeaProjects\MySpringMVC\src\main\java\com\spring\hibernate\entity\Employee.java
+C:\Users\aivanov1\IdeaProjects\MySpringMVC\src\main\java\com\spring\hibernate\service\EmployeeServiceImpl.java
+C:\Users\aivanov1\IdeaProjects\MySpringMVC\src\main\java\com\spring\hibernate\dao\EmployeeDAOImpl.java
+C:\Users\aivanov1\IdeaProjects\MySpringMVC\src\main\java\com\spring\hibernate\service\EmployeeService.java
+C:\Users\aivanov1\IdeaProjects\MySpringMVC\src\main\java\com\spring\hibernate\controller\MyController.java
