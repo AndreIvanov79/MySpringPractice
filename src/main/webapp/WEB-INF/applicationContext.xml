@@ -33,8 +33,8 @@
           destroy-method="close">
         <property name="driverClass" value="com.mysql.cj.jdbc.Driver" />
         <property name="jdbcUrl" value="jdbc:mysql://localhost:3306/my_spring?useSSL=false&amp;serverTimezone=UTC" />
-        <property name="user" value="aivanov" />
-        <property name="password" value="aivanov" />
+        <property name="user" value="root" />
+        <property name="password" value="root" />
     </bean>
 
     <bean id="sessionFactory"
