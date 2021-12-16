@@ -1,6 +1,6 @@
-package com.spring.hibernate.service;
+package com.spring.rest.api.service;
 
-import com.spring.hibernate.entity.Employee;
+import com.spring.rest.api.entity.Employee;
 
 import java.util.List;
 

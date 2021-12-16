@@ -1,6 +1,6 @@
-package com.spring.hibernate.dao;
+package com.spring.rest.api.dao;
 
-import com.spring.hibernate.entity.Employee;
+import com.spring.rest.api.entity.Employee;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;

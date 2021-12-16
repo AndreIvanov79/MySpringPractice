@@ -1,7 +1,7 @@
-package com.spring.hibernate.service;
+package com.spring.rest.api.service;
 
-import com.spring.hibernate.dao.EmployeeDAO;
-import com.spring.hibernate.entity.Employee;
+import com.spring.rest.api.dao.EmployeeDAO;
+import com.spring.rest.api.entity.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

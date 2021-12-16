@@ -1,4 +1,4 @@
-package com.spring.hibernate.entity;
+package com.spring.rest.api.entity;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 

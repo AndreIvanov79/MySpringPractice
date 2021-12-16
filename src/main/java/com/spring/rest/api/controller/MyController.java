@@ -1,8 +1,7 @@
-package com.spring.hibernate.controller;
+package com.spring.rest.api.controller;
 
-import com.spring.hibernate.dao.EmployeeDAO;
-import com.spring.hibernate.entity.Employee;
-import com.spring.hibernate.service.EmployeeService;
+import com.spring.rest.api.entity.Employee;
+import com.spring.rest.api.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
