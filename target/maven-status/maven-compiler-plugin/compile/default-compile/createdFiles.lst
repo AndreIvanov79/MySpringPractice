@@ -1,7 +1,3 @@
-com\spring\hibernate\dao\EmployeeDAO.class
-com\spring\hibernate\service\EmployeeService.class
-com\spring\hibernate\controller\MyController.class
-com\spring\hibernate\service\EmployeeServiceImpl.class
-com\spring\hibernate\dao\EmployeeDAOImpl.class
-com\spring\hibernate\entity\Employee.class
-com\spring\hibernate\aspect\MyLoggingAspect.class
+com\spring\rest\api\cliant\Communication.class
+com\spring\rest\api\cliant\configuration\MyConfig.class
+com\spring\rest\api\cliant\entity\Employee.class
