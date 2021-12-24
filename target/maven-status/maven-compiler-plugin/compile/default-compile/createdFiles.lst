@@ -1,2 +1,5 @@
-com\spring\mvc\Employee.class
-com\spring\mvc\MyController.class
+com\spring\rest\api\cliant\App.class
+com\spring\rest\api\cliant\Communication.class
+com\spring\rest\api\cliant\Communication$1.class
+com\spring\rest\api\cliant\configuration\MyConfig.class
+com\spring\rest\api\cliant\entity\Employee.class
