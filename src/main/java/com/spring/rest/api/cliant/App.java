@@ -12,5 +12,6 @@ public class App {
         Communication communication=context.getBean("communication", Communication.class);
         List<Employee> allEmployees=communication.getAllEmployees();
         System.out.println(allEmployees);
+
     }
 }
